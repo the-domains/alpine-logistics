@@ -12,5 +12,9 @@ color:
     - '#484BAE'
 layout_spectrum: 0.6257041930221021
 name: Alpine Logistics
+navigation:
+  - name: Warehousing
+    id: e43256fe-1c60-473e-a6d8-36ae402ea92d
+    type: content
 title: Alpine Logistics
 description: Supply Chain Solutions
