@@ -4,8 +4,14 @@
         <description><![CDATA[Alpine Logistics]]></description>
         <link>https://thegrid.ai/alpine-logistics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 19:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 19:31:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/alpine-logistics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[692 Clymer Rd, Marysville, OH 43040]]></title>
+            <link>https://www.google.com/maps/place/692+Clymer+Rd,+Marysville,+OH+43040/@40.226688,-83.3507177,17z/data=!3m1!4b1!4m5!3m4!1s0x8838c46e46a933e3:0x902ddc200d421906!8m2!3d40.226688!4d-83.348529</link>
+            <guid isPermaLink="false">8f2e6fd4-4fd1-448e-b322-5a7d6bae3e45</guid>
+            <pubDate>Wed, 31 Aug 2016 19:31:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Warehousing]]></title>
             <description><![CDATA[<article><h1>Warehousing</h1><p>In addition to transportation, we now offer a full line of warehousing services. Located approximately 20 minutes west of Columbus, Ohio, we can provide short term and long term capacity to best suit your business needs.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62765e34-3f93-4f48-b3ce-e9e40cc279f3.jpg"></article>]]></description>
@@ -18,12 +24,6 @@
             <link>https://www.facebook.com/alpinetrx/</link>
             <guid isPermaLink="false">74e0d70a-7fdf-418e-9e05-29428ed059ec</guid>
             <pubDate>Wed, 31 Aug 2016 18:11:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[692 Clymer Rd, Marysville, OH 43040]]></title>
-            <link>https://www.google.com/maps/place/692+Clymer+Rd,+Marysville,+OH+43040/@40.226688,-83.3507177,17z/data=!3m1!4b1!4m5!3m4!1s0x8838c46e46a933e3:0x902ddc200d421906!8m2!3d40.226688!4d-83.348529</link>
-            <guid isPermaLink="false">8f2e6fd4-4fd1-448e-b322-5a7d6bae3e45</guid>
-            <pubDate>Wed, 31 Aug 2016 18:00:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
