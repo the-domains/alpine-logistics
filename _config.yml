@@ -11,6 +11,8 @@ color:
     - '#E9A3A3'
     - '#484BAE'
 layout_spectrum: 0.004553075646981597
+analytics:
+  facebook: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/95278d71-f26f-4dae-8c9d-4a936a72bfbc.png
 name: Alpine Logistics
