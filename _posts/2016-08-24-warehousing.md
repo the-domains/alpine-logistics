@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-24T18:17:28.433Z'
+datePublished: '2016-08-31T15:03:52.737Z'
 sourcePath: _posts/2016-08-24-warehousing.md
 author: []
 via: {}
-dateModified: '2016-08-24T18:17:28.098Z'
+dateModified: '2016-08-31T15:03:52.381Z'
 title: Warehousing
 publisher: {}
 description: >-
@@ -11,7 +11,7 @@ description: >-
   services. Located approximately 20 minutes west of Columbus, Ohio, we can
   provide short term and long term capacity to best suit your business needs.
 hasPage: true
-starred: false
+starred: true
 url: warehousing/index.html
 _type: Blurb
 
