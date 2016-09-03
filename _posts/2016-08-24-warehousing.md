@@ -1,19 +1,20 @@
 ---
-datePublished: '2016-08-31T18:13:00.705Z'
+datePublished: '2016-08-31T18:13:12.009Z'
 sourcePath: _posts/2016-08-24-warehousing.md
+inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T18:13:00.311Z'
+dateModified: '2016-08-31T18:13:11.616Z'
 title: Warehousing
 publisher: {}
 description: >-
   In addition to transportation, we now offer a full line of warehousing
   services. Located approximately 20 minutes west of Columbus, Ohio, we can
   provide short term and long term capacity to best suit your business needs.
-hasPage: true
 starred: false
 url: warehousing/index.html
-_type: Blurb
+_type: Article
 
 ---
 In addition to transportation, we now offer a full line of warehousing services. Located approximately 20 minutes west of Columbus, Ohio, we can provide short term and long term capacity to best suit your business needs.
